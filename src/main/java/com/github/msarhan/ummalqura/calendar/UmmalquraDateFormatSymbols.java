@@ -59,7 +59,7 @@ class UmmalquraDateFormatSymbols {
 	String[] shortMonths = null;
 
 	public UmmalquraDateFormatSymbols() {
-		initializeData(Locale.getDefault(Locale.Category.FORMAT));
+		initializeData(Locale.getDefault());
 	}
 
 	public UmmalquraDateFormatSymbols(Locale locale) {
