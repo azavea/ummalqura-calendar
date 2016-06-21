@@ -11,7 +11,7 @@ import java.util.Date;
  *
  * @author Mouaffak A. Sarhan.
  */
-class UmmalquraGregorianConverter {
+public class UmmalquraGregorianConverter {
 
 	public static int[] toHijri(long time) {
 		return toHijri(new Date(time));
