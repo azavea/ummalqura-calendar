@@ -31,7 +31,7 @@ import java.util.ResourceBundle;
 /**
  * @author Mouaffak A. Sarhan.
  */
-class UmmalquraDateFormatSymbols {
+public class UmmalquraDateFormatSymbols {
 
 	/**
 	 * The locale which is used for initializing this DateFormatSymbols object.
